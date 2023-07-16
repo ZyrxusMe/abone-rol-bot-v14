@@ -1,0 +1,23 @@
+{
+  "name": "abone-rol-bot-v14",
+  "version": "1.0.0",
+  "description": "Bu Discord botu, belirli bir kanalda gönderilen ekran görüntülerini okuyarak kullanıcılara abone rolü veren bir özellik sunar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyrxusMe/abone-rol-bot-v14.git"
+  },
+  "author": "ZyrxusMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZyrxusMe/abone-rol-bot-v14/issues"
+  },
+  "homepage": "https://github.com/ZyrxusMe/abone-rol-bot-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "tesseract.js": "^4.1.1"
+  }
+}
