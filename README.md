@@ -31,4 +31,4 @@ node index.js
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
-Discord [Weasley#0571](https://discord.com/users/576367632752705546)
+Discord [direniyor#0](https://discord.com/users/1149247072797732875)
